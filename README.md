@@ -3,7 +3,7 @@
 #### Installation
 
 ```
-$ npm install git+https://github.com/avinoamr/color-sdk-nodejs.git
+$ npm install git+https://github.com/panoplyio/color-sdk-nodejs.git
 ```
 
 #### Usage
@@ -22,12 +22,11 @@ The `SDK` class extends Node's [EventEmitter](https://nodejs.org/api/events.html
 
 ###### SDK( apikey, apisecret )
 
-Opens the socket connection to the Color server. 
+Opens the socket connection to the Color server.
 
 ###### .write( type, obj )
 
-Immediately writes an arbitrary object to the Color database. 
+Immediately writes an arbitrary object to the Color database.
 
 * **type** is a string representing the event type or collection of the object
 * **obj** is a simple javascript object. Do not use non-primitive data types.
-

@@ -1,13 +1,13 @@
 {
   "name": "color-sdk-nodejs",
-  "version": "2.1.23",
+  "version": "2.2.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/avinoamr/color-sdk-nodejs.git"
+    "url": "https://github.com/panoplyio/color-sdk-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/avinoamr/color-sdk-nodejs/issues"
+    "url": "https://github.com/panoplyio/color-sdk-nodejs/issues"
   },
-  "homepage": "https://github.com/avinoamr/color-sdk-nodejs"
+  "homepage": "https://github.com/panoplyio/color-sdk-nodejs"
 }
